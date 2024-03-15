@@ -1,0 +1,68 @@
+#def sayıcontrol (sayı):
+   # rakam_str=str(sayı)
+   # if len(set(rakam_str))==1:
+   #     return 1
+  #  else:
+ #       return 0
+    
+#A:[233,45,777,999999,30,90,11,61]
+#for sayı in A:
+ #   if sayıcontrol(sayı):
+#        print((sayı)"")
+
+' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+
+#liste=[10,20,30]
+#print(type(liste))
+
+# ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+
+#class person:
+ #   def __init__(self,name,lname,adres,doğumyıl):
+  #      self.name=name
+   #     self.lname=lname
+    #    self.adres=adres
+     #   self.doğumyıl=doğumyıl
+    #def intro(self):
+     #   print("merhaba ben"+self.name)
+      #  print("soyadım"+self.lname)
+       # print("adres bilgim"+self.adres)
+        #print("doğum yılım"+self.doğumyıl)
+          #print("2024+self.2024)")
+    #def bilgi(self):
+     #   return 
+    
+#p1=person("Efe Kaan","Karaman","100.yıl mahallesi","2008")
+#print(p1)
+#print("benim adım",p1.name,"soyadım",p1.lname,"adres bilgisi:",p1.adres,"doğum yılım",p1.doğumyıl)
+
+#p1.intro()bilgi
+#p1.bilgi()
+
+' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+
+
+#class Daire:
+ #   pi=3.14
+  #  def __init__(self,yarıçap):
+   #     self.yarıçap=yarıçap
+#def çevre_hesaplama(self):
+ #       return 2 * self.pi * self.yarıçap
+
+#daire1=Daire(9)
+#daire2=Daire(14)
+#print(daire1.çevrehesaplama())
+#print(daire2.çevrehesaplama())
+        
+' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+
+#class square:
+  #   def __init__(self,kenar):
+ #         self.kenar=kenar
+#        def alanhesaplama(self):
+ #    return self.kenar*self.kenar
+#kare=square(9)
+#print(kare.alanhesaplama())
+
